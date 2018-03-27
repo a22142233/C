@@ -1,0 +1,23 @@
+#include <stdio.h> /*導入基本輸入輸出*/
+ 
+int main() /*不回傳質*/
+{
+    /* 我的第一個 C 程序 */
+    printf("Hello, World! \n"); /*列印Hello, World!*/
+ 
+    return 0; /*退出*/
+}
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#include <iostream> /*導入基本輸入輸出*/
+using namespace std; /*宣告std*/
+int main() /*不回傳質*/
+{
+    cout << "Hello, world!" << endl; /*列印*/
+    return 0; /*退出*/
+}
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+public class HelloWorld { /*創建一個類別*/
+    public static void main(String[] args) { /**/
+        System.out.println("Hello World"); /*列印*/
+    }
+}
