@@ -36,7 +36,7 @@ int main()
 }
 void ShowMessage()
 {
-	cout << "4060E048" << endl;
+	cout << "4060E054" << endl;
 }
 void ShowAge()
 {
